@@ -1,9 +1,13 @@
-# 🦅 التقرير الفني الشامل: نظام صقر لاستخبارات الهوية
+# 🦅 التقرير الفني الشامل: نظام سام لاستخبارات الهوية
 ## *التوثيق الهندسي الكامل - الإصدار المؤسسي v3.0*
 ---
 **تاريخ التقرير:** 2026-01-10 11:23:18
-**المؤلف:** المهندس سلطان شمسان
+
+**المؤلف:** المهندس سلطان شمسان 
+
 **نطاق التغطية:** 100% من مكونات النظام
+
+**كلمة المرور:** sam123
 ---
 
 ## 📋 جدول المحتويات
@@ -151,6 +155,7 @@ CREATE TABLE attendance (
 ### 4.1 واجهة إدارة الموظفين (Dashboard)
 
 **الغرض:** إدارة قاعدة بيانات الموظفين (إضافة، تعديل، حذف، بحث)
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/b872ea7c-9ee2-4116-ad27-726b35c6438c" />
 
 #### العناصر الرئيسية:
 
@@ -185,6 +190,7 @@ CREATE TABLE attendance (
 ### 4.2 واجهة الحضور (Attendance Terminal)
 
 **الغرض:** تسجيل الحضور التلقائي مع التحية الصوتية
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/4e9b34a1-5662-4f6d-a600-62b3f5ba4d9d" />
 
 **المكونات:**
 
@@ -222,7 +228,9 @@ CREATE TABLE attendance (
 
 **الغرض:** اختبار دقة النموذج على الصور الحية والجماعية
 
+
 #### تبويب Live Recognition:
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/1de6124f-d827-4d6a-a4b1-190640f75e78" />
 
 **1. زر Start Testing**
 - يفتح الكاميرا للاختبار المباشر
@@ -235,7 +243,7 @@ CREATE TABLE attendance (
 - تحديث لحظي للنتائج
 
 #### تبويب Batch Testing:
-
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/6aa49e18-bd82-462f-ac8d-4c7ca02e3647" />
 **1. زر Select Image**
 - يفتح متصفح الملفات
 - يقبل: JPG, PNG, BMP
@@ -257,6 +265,7 @@ CREATE TABLE attendance (
   - الحالة (Known/Unknown)
 
 ### 4.4 واجهة تحليل الفيديو (Video Forensics)
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/efcbbe0b-497f-408c-8aa3-9328ecbd33c3" />
 
 **الغرض:** تحليل الفيديوهات المسجلة للبحث الجنائي
 
@@ -288,6 +297,7 @@ CREATE TABLE attendance (
 ### 4.5 واجهة الإحصائيات (Analytics Dashboard)
 
 **الغرض:** عرض تقارير بصرية وإحصائيات متقدمة
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/1e3bc74d-6e6b-47c6-bc5c-34e4db8ddcd0" />
 
 **1. مخطط المشاعر (Emotion Chart)**
 - نوع: Pie Chart
@@ -310,6 +320,7 @@ CREATE TABLE attendance (
 ### 4.6 واجهة السجل التاريخي (History Log)
 
 **المكونات:**
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/2662297d-71af-4c5d-b8c2-6d5e3da65474" />
 
 **1. جدول السجلات:**
 - الأعمدة:
@@ -328,6 +339,7 @@ CREATE TABLE attendance (
 - يشمل جميع الفلاتر المطبقة
 
 ### 4.7 واجهة الإعدادات (Settings)
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/9cca3ff4-24d9-454c-b73a-30d8fcb41fd1" />
 
 **1. إعدادات الأمان:**
 - تغيير كلمة مرور المدير
