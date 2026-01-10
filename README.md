@@ -12,11 +12,6 @@
 
 # 🇬🇧 English Documentation
 
-![GitHub language count](https://img.shields.io/github/languages/count/SultanShamsan/face-recognition-system)
-![GitHub top language](https://img.shields.io/github/languages/top/SultanShamsan/face-recognition-system?color=blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ## 🌟 Overview
 The **Identity Intelligence System** is an advanced, enterprise-grade desktop application designed for seamless identity management and security forensics. Built using **Python 3.13** and **PyQt6**, it leverages high-precision computer vision to handle real-time attendance, facial expression (emotion) tracking, and liveness detection.
 
@@ -81,19 +76,25 @@ The engine is not just a wrapper; it's a fine-tuned pipeline:
 
 ### 1️⃣ واجهة تسجيل الدخول
 > [!TIP]
-> **[قم بإدراج لقطة شاشة لواجهة تسجيل الدخول هنا]**
+<img width="301" height="176" alt="image" src="https://github.com/user-attachments/assets/6cf90ee3-1edb-41c5-933e-c41a3a7b2adb" />
+*
 
 ### 2️⃣ واجهة إدارة الهوية
 > [!TIP]
-> **[قم بإدراج لقطة شاشة للوحة إدارة الهوية هنا]**
+> 
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/b00e4293-36cc-49df-94e3-b65a409b3371" />
+
+*
 
 ### 3️⃣ واجهة الحضور والتحقق الذكي
 > [!TIP]
-> **[قم بإدراج لقطة شاشة واجهة الحضور هنا]**
+<img width="1366" height="723" alt="image" src="https://github.com/user-attachments/assets/f0b29300-f084-4261-a0a0-f31a655cf52e" />
+*
 
 ### 4️⃣ لوحة التحليلات والإحصائيات
 > [!TIP]
-> **[قم بإدراج لقطة شاشة للرسوم البيانية هنا]**
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/cc16c6b5-9971-4176-8e0d-8f2ffe1f0e2f" />
+*
 
 ## 🛠️ التوثيق التقني العميق (Deep Tech)
 
