@@ -74,7 +74,7 @@ The engine is not just a wrapper; it's a fine-tuned pipeline:
 
 ## 🎨 استعراض واجهات النظام (UI Walkthrough)
 
-### 1️⃣ واجهة تسجيل الدخول
+### 1️⃣ واجهة تسجيل الدخول >>>>>> كلمة المرور:sam123
 > [!TIP]
 <img width="301" height="176" alt="image" src="https://github.com/user-attachments/assets/6cf90ee3-1edb-41c5-933e-c41a3a7b2adb" />
 *
