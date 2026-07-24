@@ -114,9 +114,13 @@ The engine is not just a wrapper; it's a fine-tuned pipeline:
 ---
 
 ## ✍️ تطوير المهندس
-**م. سلطان شمسان (Eng. Sultan Shamsan)**  
+**م. عبدالله مارش (Eng.Abdullah Maresh )
+**
+**م. سلطان شمسان (Eng. Sultan Shamsan)
+
 أخصائي حلول الذكاء الاصطناعي المتقدمة  
-[GitHub](https://github.com/s-u-l-t-a-n-7/sultan-shamsan) | [LinkedIn](https://www.linkedin.com/in/sultan-shamsan/)
+[GitHub](https://github.com/Abdullahmaresh9)
+[GitHub](https://github.com/s-u-l-t-a-n-7/sultan-shamsan) 
 
 ---
 *Developed for Advanced AI Enterprise Solutions.*
